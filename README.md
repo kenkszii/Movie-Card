@@ -1,5 +1,5 @@
 
-#Movie Card
+Movie Card
 
 Movie Card  is a web App that helps user to search for their movies based on the following:
  Production Date 
@@ -7,7 +7,7 @@ Movie Genre
 List of similar movies produced and date
 
 
-##TEAMS
+TEAMS
 Edwin Agana
 Theophilus Ayano
 Abdulazeez Gaji
@@ -15,17 +15,17 @@ Above are the members of this team and we would be building the frontend and bac
 
 
 
-##TECHNOLOGIES
+TECHNOLOGIES
 
 
-##Front end
+Front end
 
 Html
 CSS
 JavaScript
 React
 
-##Backend
+Backend
 Restful API
 
 Comparison between selected technologies
@@ -48,7 +48,7 @@ When it comes to Vue, its widespread tools and libraries are developed by its co
 
 
 
-##CHALLENGE
+CHALLENGE
 
 
 Describe the problem the Portfolio Project is intended to solve:
