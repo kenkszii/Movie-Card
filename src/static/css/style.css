@@ -251,6 +251,10 @@ ul li a:hover{
 .icons a{
   text-decoration: none;
   color: #fff;
+  margin-left: 2%;
+  margin-right: 2%
+
+ 
 }
 .icons ion-icon{
   color: #fff;
@@ -575,4 +579,12 @@ input[type="submit"]:hover {
   border: none;
   border-radius: 4px;
   width: 75%;
+}
+
+.twitter{
+  text-decoration: none;
+  color: #fff;
+  margin-left: 2%;
+  margin-right: 2%
+
 }

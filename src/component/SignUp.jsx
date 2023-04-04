@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 
 function SignUp() {
@@ -58,8 +59,8 @@ function SignUp() {
             name="password"
             placeholder="Your password.."
           />
-
-          <input type="submit" value="Submit" />
+        <Link to="/"> <input type="submit" value="Submit" /></Link>
+         
         </form>
       </div>
     </>

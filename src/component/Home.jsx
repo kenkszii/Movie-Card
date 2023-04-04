@@ -1,5 +1,5 @@
 import React from "react";
-import {Facebook } from "react-bootstrap-icons";
+import {Facebook, Google, Twitter } from "react-bootstrap-icons";
 import "../static/css/style.css";
 
 function Home() {
@@ -67,24 +67,6 @@ function Home() {
               Sign up here
             </a>
           </p>
-
-          <p className="liw pb-4">
-            Log in with
-          </p>
-
-          <div className="icons">
-            <a href="#"><Facebook clasName="px-3"/></a>
-            <a href="#"><Facebook/></a>
-            <a href="#"><Facebook/></a>
-            <a href="#"><Facebook/></a>
-            <a href="#"><Facebook/></a>
-            <a href="#"><ion-icon name="logo-instagram"></ion-icon></a>
-            <a href="#"><ion-icon name="logo-twitter"></ion-icon></a>
-            <a href="#"><ion-icon name="logo-google"></ion-icon></a>
-            <a href="#"><ion-icon name="logo-skype"></ion-icon></a>
-          </div>
-
-
         </div>
       </div>
 
