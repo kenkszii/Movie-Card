@@ -1,5 +1,4 @@
 import React from "react";
-import {Facebook, Google, Twitter } from "react-bootstrap-icons";
 import "../static/css/style.css";
 
 function Home() {

@@ -196,7 +196,7 @@ ul li a:hover{
   border-top: none;
   border-right: none;
   border-left: none;
-  color: #f2f2f273;
+  color: black;
   font-size: 15px;
   letter-spacing: 1px;
   margin-top: 30px;
@@ -332,7 +332,7 @@ h1 {
   padding-right: 1rem;
 
   outline: none;
-  color:  rgba(249, 211, 180, 1) 0%;
+  color: #f9d3b4;
   background: #1f2123;
 }
 

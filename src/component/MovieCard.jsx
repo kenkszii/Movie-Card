@@ -13,7 +13,7 @@ function MovieCard() {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    searchMovies("Batman");
+    searchMovies(" ");
   }, []);
 
   const searchMovies = async (title) => {
