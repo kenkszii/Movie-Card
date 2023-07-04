@@ -29,8 +29,8 @@ function MovieCard() {
         <h1>MovieCard</h1>
         
         <h2><button className="btlogout">
-          <a href="/">
-            Logout
+          <a href="/home">
+            Home
           </a>
         </button></h2>
 

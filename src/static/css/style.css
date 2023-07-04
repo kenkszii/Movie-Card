@@ -32,7 +32,13 @@
   padding-top: 10px;
   margin-top: 5px
 }
-
+.me{
+  color: #ff7200;
+  text-decoration:none;
+}
+.me2{
+  text-decoration:solid;
+}
 .menu{
   width: 400px;
   float: left;
@@ -552,7 +558,7 @@ input[type="submit"]:hover {
   height: 40px;
   background: #f9d3b4;
   border: none;
-  margin-top: 70px;
+  margin-top: 16px;
   font-size: 18px;
   border-radius: 10px;
   cursor: pointer;

@@ -7,33 +7,37 @@ function Home() {
       <div className="navbar">
         <div className="icon">
           <h2 className="logo">
-            MovieCard
+            
+              <a className="me" href="/">
+                MovieCard
+              </a>
+            
           </h2>
         </div>
 
         <div className="menu">
           <ul>
-            <li><a href="#">HOME</a></li>
-            <li><a href="#">ABOUT</a></li>
-            <li><a href="#">SERVICE</a></li>
-            <li><a href="#">BLOG</a></li>
-            <li><a href="#">CONTACT</a></li>
+            <li><a href="/home">HOME</a></li>
+            <li><a href="/home">ABOUT</a></li>
+            <li><a href="/home">SERVICE</a></li>
+            <li><a href="/home">BLOG</a></li>
+            <li><a href="/home">CONTACT</a></li>
           </ul>
         </div>
-        
+
       </div>
       <div className="content">
         <h1>
-        Welcome To Our
+          Welcome To Our
           <br />
           <span>
-          Movie Search 
+            Movie Search
           </span>
           <br />App!
         </h1>
 
-        <p className="par">Our app is designed to help you easily find and explore your favorite movies. 
-          <br />With our user-friendly search interfaceyou can quickly search for any movie by title 
+        <p className="par">Our app is designed to help you easily find and explore your favorite movies.
+          <br />With our user-friendly search interfaceyou can quickly search for any movie by title
           <br /> and get instant results from our extensive movie database.
           <br />
           <br /> So what are you waiting for?
@@ -41,8 +45,8 @@ function Home() {
         </p>
 
         <button className="cn">
-          <a href="/sign-up">
-            JOIN US
+          <a className="me2" href="/">
+            Search Now
           </a>
         </button>
 
