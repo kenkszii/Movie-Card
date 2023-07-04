@@ -8,7 +8,7 @@ function Home() {
         <div className="icon">
           <h2 className="logo">
             
-              <a className="me" href="/">
+              <a className="me" href="/moviecard">
                 MovieCard
               </a>
             
@@ -17,11 +17,11 @@ function Home() {
 
         <div className="menu">
           <ul>
-            <li><a href="/home">HOME</a></li>
-            <li><a href="/home">ABOUT</a></li>
-            <li><a href="/home">SERVICE</a></li>
-            <li><a href="/home">BLOG</a></li>
-            <li><a href="/home">CONTACT</a></li>
+            <li><a href="/">HOME</a></li>
+            <li><a href="/">ABOUT</a></li>
+            <li><a href="/">SERVICE</a></li>
+            <li><a href="/">BLOG</a></li>
+            <li><a href="/">CONTACT</a></li>
           </ul>
         </div>
 

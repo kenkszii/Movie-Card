@@ -7,8 +7,8 @@ import Home from "./component/Home";
 function App() {
 	return ( 
 		<Routes>
-			<Route path="/" element={<MovieCard />} />
-      <Route path="/home" element={<Home  />} /> 
+			<Route path="/moviecard" element={<MovieCard />} />
+      <Route path="/" element={<Home  />} /> 
       <Route path="/sign-up" element={<SignUp  />} />
 		</Routes>
 	);
