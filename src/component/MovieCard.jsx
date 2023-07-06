@@ -28,11 +28,13 @@ function MovieCard() {
       <div className="app">
         <h1>MovieCard</h1>
         
-        <h2><button className="btlogout">
-          <a href="/home">
-            Home
-          </a>
-        </button></h2>
+        <h2>
+          <button className="btlogout">
+            <a href="/">
+              Home
+            </a>
+         </button>
+        </h2>
 
 
         <div className="search">
