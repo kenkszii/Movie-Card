@@ -4,7 +4,7 @@ import CardStructure from "./CardStructure";
 import SearchIcon from "../static/img/search.svg";
 import "../static/css/style.css";
 
-const API_URL = "http://www.omdbapi.com?apikey=b6003d8a";
+const API_URL = "https://www.omdbapi.com?apikey=b6003d8a";
 
 
 
