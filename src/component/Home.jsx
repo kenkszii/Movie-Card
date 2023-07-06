@@ -8,9 +8,9 @@ function Home() {
         <div className="icon">
           <h2 className="logo">
             
-              {/* <a className="me" href="/moviecard">
+              <a className="me" href="/moviecard">
                 MovieCard
-              </a> */}
+              </a>
             
           </h2>
         </div>
