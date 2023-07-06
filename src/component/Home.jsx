@@ -45,7 +45,7 @@ function Home() {
         </p>
 
         <button className="cn">
-          <a className="me2" href="/">
+          <a className="me2" href="/moviecard">
             Search Now
           </a>
         </button>
